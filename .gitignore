@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -97,3 +98,6 @@ venv.bak/
 
 # SQLite database
 aislit_token.db
+=======
+.DS_Store
+>>>>>>> 7149ab4 (Removed .DS_Store and updated .gitignore)
